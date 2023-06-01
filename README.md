@@ -11,7 +11,7 @@
   - git init
   - then follow the steps from the instructions on git hub
 
-## The task
+## The taskM
 Display six colored blocks on the screen without any extra margins:
 
 - Use `flexbox`
